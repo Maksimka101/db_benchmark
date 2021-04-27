@@ -1,6 +1,7 @@
 # db_benchmark
 ## Hive lazy
 Empty db open time: 0.02 sec
+
 Db open time with 50 000 entities: 5.2 sec
 
 | |Time spent|Operations|Operations Per Second|
@@ -12,6 +13,7 @@ Db open time with 50 000 entities: 5.2 sec
 
 ## Hive
 Empty db open time: 0.02 sec
+
 Db open time with 50 000 entities: 46.2 sec
 
 | |Time spent|Operations|Operations Per Second|
@@ -23,6 +25,7 @@ Db open time with 50 000 entities: 46.2 sec
 
 ## Sembast io
 Empty db open time: 1.5 sec
+
 Db open time with 50 000 entities: 142.3 sec
 
 | |Time spent|Operations|Operations Per Second|
@@ -34,6 +37,7 @@ Db open time with 50 000 entities: 142.3 sec
 
 ## Sembast SQFLite
 Empty db open time: 1.5 sec
+
 Db open time with 36 000 entities: 14 sec
 
 | |Time spent|Operations|Operations Per Second|
