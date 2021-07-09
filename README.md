@@ -4,6 +4,8 @@ Empty db open time: 0.02 sec
 
 Db open time with 50 000 entities: 5.2 sec
 
+Db close time with 50 000 entities: 
+
 | |Time spent|Operations|Operations Per Second|
 |---|---|---|---|
 |Save|30.5 sec|50 000|1 666|
@@ -16,6 +18,8 @@ Empty db open time: 0.02 sec
 
 Db open time with 50 000 entities: 46.2 sec
 
+Db close time with 50 000 entities: 
+
 | |Time spent|Operations|Operations Per Second|
 |---|---|---|---|
 |Save|22.3 sec|50 000|2 272|
@@ -27,6 +31,8 @@ Db open time with 50 000 entities: 46.2 sec
 Empty db open time: 1.5 sec
 
 Db open time with 50 000 entities: 142.3 sec
+
+Db close time with 50 000 entities: 
 
 | |Time spent|Operations|Operations Per Second|
 |---|---|---|---|
